@@ -9,16 +9,19 @@ execute:
   freeze: auto
 
 website:
-  title: "My Website"
+  favicon: images/logo_lwg-circle.png
+  title: "LegacyWorks Group: Project Planning & Management Series"
   repo-url: https://github.com/LegacyWorksGroup/proj-planning-mgt
   repo-actions: [issue]
   navbar:
     background: primary
     right: 
+      - text: "LegacyWorks Home"
+        href: https://legacyworksgroup.com/
       - icon: github
         href: https://github.com/LegacyWorksGroup/proj-planning-mgt
   page-footer: 
-    center: "Copyright 2026, LegacyWorksGroup"
+    center: "&copy; 2026, LegacyWorks Group"
     background: secondary
 
 format:
@@ -26,3 +29,7 @@ format:
     toc: true
     link-external-newwindow: true
     link-external-icon: false
+    theme:
+      light: themes/lwg-light.scss
+      dark: themes/lwg-dark.scss
+    mainfont: Open Sans
