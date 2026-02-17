@@ -1,0 +1,28 @@
+project:
+  type: website
+  execute-dir: project
+  output-dir: docs
+  render:
+    - "*.qmd"
+
+execute: 
+  freeze: auto
+
+website:
+  title: "My Website"
+  repo-url: https://github.com/LegacyWorksGroup/proj-planning-mgt
+  repo-actions: [issue]
+  navbar:
+    background: primary
+    right: 
+      - icon: github
+        href: https://github.com/LegacyWorksGroup/proj-planning-mgt
+  page-footer: 
+    center: "Copyright 2026, LegacyWorksGroup"
+    background: secondary
+
+format:
+  html:
+    toc: true
+    link-external-newwindow: true
+    link-external-icon: false
