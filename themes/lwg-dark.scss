@@ -1,0 +1,45 @@
+/*-- scss:defaults --*/
+
+// Colors
+/* From LWG branding */
+$lwg-blue-1: #1e6091;
+$lwg-blue-2: #34a0a4;
+$lwg-green-1: #99d98c;
+$lwg-green-2: #d9ed92;
+
+/* generally useful other colors */
+$url-blue: #4361ee;
+$cream: #F4F3EE;
+$charcoal: #191919;
+$gray-1: #8A817C;
+$gray-2: #BCB8B1;
+$gray-3: #d6d6d6;
+
+// Fonts
+$font-size: 25px;
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+
+// Base document colors
+$navbar-bg: $lwg-blue-1; // navbar
+$navbar-fg: $cream; // navbar foreground elements
+$navbar-hl: $lwg-green-2; // highlight color when hovering on a page
+$sidebar-bg: $lwg-green-1; // sidebar
+$sidebar-fg: $charcoal; // sidebar foreground elements
+$body-bg: $charcoal; // page background
+$body-color: $cream; // page text
+$footer-bg: $lwg-green-1; // footer
+$footer-fg: $charcoal; // footer text
+$link-color: $url-blue; // hyperlinks
+
+// Code text
+$code-bg: $gray-2; // inline code background color
+$code-color: $charcoal; // inline code text color
+$code-block-bg: $gray-2; // code block background color
+
+/*-- scss:rules --*/
+
+// Underline URLs
+.reveal .slide a { text-decoration: underline; }
+
+// Improve background contrast for code chunk ouput
+pre code:not(.sourceCode) { background-color: $gray-2; }
