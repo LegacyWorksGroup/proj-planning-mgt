@@ -20,8 +20,18 @@ website:
         href: https://legacyworksgroup.com/
       - icon: github
         href: https://github.com/LegacyWorksGroup/proj-planning-mgt
-  margin-footer: |
-    ![](content/images/logo_lwg-circle.png){fig-alt="Logo for LegacyWorks Group" fig-align="center" width="30%"}
+  sidebar:
+    collapse-level: 2
+    style: docked
+    contents:
+      - text: "Course Home"
+        href: index.qmd
+      - section: "Course Contents"
+        contents: 
+          - text: "Project Design"
+            href: content/project-design.qmd
+          - text: "Project Execution"
+            href: content/project-execution.qmd
   page-footer: 
     center: "&copy; 2026, LegacyWorks Group"
     background: secondary
