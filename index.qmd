@@ -1,5 +1,7 @@
 ---
-title: "{{< fa person-digging >}} Under Construction"
+title: "Course Home"
 ---
+
+## {{< fa person-digging >}} Under Construction
 
 Check back later!
