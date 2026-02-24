@@ -2,8 +2,71 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": " Under Construction",
+    "title": "Course Home",
     "section": "",
-    "text": "Check back later!"
+    "text": "Check back later!",
+    "crumbs": [
+      "LegacyWorks Home",
+      "Course Home"
+    ]
+  },
+  {
+    "objectID": "index.html#under-construction",
+    "href": "index.html#under-construction",
+    "title": "Course Home",
+    "section": "",
+    "text": "Check back later!",
+    "crumbs": [
+      "LegacyWorks Home",
+      "Course Home"
+    ]
+  },
+  {
+    "objectID": "content/project-design.html",
+    "href": "content/project-design.html",
+    "title": "Project Selection and Design",
+    "section": "",
+    "text": "Check back later!",
+    "crumbs": [
+      "LegacyWorks Home",
+      "Course Contents",
+      "Project Design"
+    ]
+  },
+  {
+    "objectID": "content/project-design.html#under-construction",
+    "href": "content/project-design.html#under-construction",
+    "title": "Project Selection and Design",
+    "section": "",
+    "text": "Check back later!",
+    "crumbs": [
+      "LegacyWorks Home",
+      "Course Contents",
+      "Project Design"
+    ]
+  },
+  {
+    "objectID": "content/project-execution.html",
+    "href": "content/project-execution.html",
+    "title": "Project Management and Execution",
+    "section": "",
+    "text": "Check back later!",
+    "crumbs": [
+      "LegacyWorks Home",
+      "Course Contents",
+      "Project Execution"
+    ]
+  },
+  {
+    "objectID": "content/project-execution.html#under-construction",
+    "href": "content/project-execution.html#under-construction",
+    "title": "Project Management and Execution",
+    "section": "",
+    "text": "Check back later!",
+    "crumbs": [
+      "LegacyWorks Home",
+      "Course Contents",
+      "Project Execution"
+    ]
   }
 ]
