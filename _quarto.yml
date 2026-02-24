@@ -9,7 +9,7 @@ execute:
   freeze: auto
 
 website:
-  favicon: images/logo_lwg-circle.png
+  favicon: content/images/logo_lwg-circle.png
   title: "LegacyWorks Group: Project Planning & Management Series"
   repo-url: https://github.com/LegacyWorksGroup/proj-planning-mgt
   repo-actions: [issue]
@@ -20,6 +20,8 @@ website:
         href: https://legacyworksgroup.com/
       - icon: github
         href: https://github.com/LegacyWorksGroup/proj-planning-mgt
+  margin-footer: |
+    ![](content/images/logo_lwg-circle.png){fig-alt="Logo for LegacyWorks Group" fig-align="center" width="30%"}
   page-footer: 
     center: "&copy; 2026, LegacyWorks Group"
     background: secondary
