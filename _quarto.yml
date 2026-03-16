@@ -28,9 +28,9 @@ website:
         href: index.qmd
       - section: "Series Contents"
         contents: 
-          - text: "Project Design"
+          - text: "Selection & Design"
             href: content/project-design.qmd
-          - text: "Project Execution"
+          - text: "Management & Execution"
             href: content/project-execution.qmd
   page-footer: 
     center: "&copy; 2026, LegacyWorks Group"
