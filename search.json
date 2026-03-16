@@ -2,23 +2,45 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Course Home",
+    "title": "Series Overview",
     "section": "",
-    "text": "Check back later!",
+    "text": "Under construction; check back later",
     "crumbs": [
       "LegacyWorks Home",
-      "Course Home"
+      "Series Overview"
     ]
   },
   {
-    "objectID": "index.html#under-construction",
-    "href": "index.html#under-construction",
-    "title": "Course Home",
-    "section": "",
-    "text": "Check back later!",
+    "objectID": "index.html#course-structure",
+    "href": "index.html#course-structure",
+    "title": "Series Overview",
+    "section": "Course Structure",
+    "text": "Course Structure\n\n2026-27 Structure\n\n\n Under construction; check back later",
     "crumbs": [
       "LegacyWorks Home",
-      "Course Home"
+      "Series Overview"
+    ]
+  },
+  {
+    "objectID": "index.html#course-scheduling",
+    "href": "index.html#course-scheduling",
+    "title": "Series Overview",
+    "section": "Course Scheduling",
+    "text": "Course Scheduling\n\n2026-27 Schedule\n\n\n\n\n\n\n\n\n\n\nDate\nSeries\nInstructor(s)\n\n\n\n\nAug. 6, 2026\n1. Project Selection & Design\n Jess    Michelle    Elle    Allison \n\n\nSep. 3, 2026\n2. Project Management & Execution\n Jess    Michelle    Elle    Allison",
+    "crumbs": [
+      "LegacyWorks Home",
+      "Series Overview"
+    ]
+  },
+  {
+    "objectID": "index.html#course-policies",
+    "href": "index.html#course-policies",
+    "title": "Series Overview",
+    "section": "Course Policies",
+    "text": "Course Policies\n Under construction; check back later",
+    "crumbs": [
+      "LegacyWorks Home",
+      "Series Overview"
     ]
   },
   {
@@ -26,22 +48,10 @@
     "href": "content/project-design.html",
     "title": "Project Selection and Design",
     "section": "",
-    "text": "Check back later!",
+    "text": "Under construction; check back later.\n\n\n\n\n\n\nTipCore Competencies Strengthened\n\n\n\n\n\nIcon legend: Values =  | Skills =  | Stewardship =  | Results =",
     "crumbs": [
       "LegacyWorks Home",
-      "Course Contents",
-      "Project Design"
-    ]
-  },
-  {
-    "objectID": "content/project-design.html#under-construction",
-    "href": "content/project-design.html#under-construction",
-    "title": "Project Selection and Design",
-    "section": "",
-    "text": "Check back later!",
-    "crumbs": [
-      "LegacyWorks Home",
-      "Course Contents",
+      "Series Contents",
       "Project Design"
     ]
   },
@@ -50,22 +60,10 @@
     "href": "content/project-execution.html",
     "title": "Project Management and Execution",
     "section": "",
-    "text": "Check back later!",
+    "text": "Under construction; check back later.\n\n\n\n\n\n\nTipCore Competencies Strengthened\n\n\n\n\n\nIcon legend: Values =  | Skills =  | Stewardship =  | Results =",
     "crumbs": [
       "LegacyWorks Home",
-      "Course Contents",
-      "Project Execution"
-    ]
-  },
-  {
-    "objectID": "content/project-execution.html#under-construction",
-    "href": "content/project-execution.html#under-construction",
-    "title": "Project Management and Execution",
-    "section": "",
-    "text": "Check back later!",
-    "crumbs": [
-      "LegacyWorks Home",
-      "Course Contents",
+      "Series Contents",
       "Project Execution"
     ]
   }
