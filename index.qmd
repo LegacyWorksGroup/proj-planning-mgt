@@ -1,7 +1,45 @@
 ---
-title: "Course Home"
+title: "Series Overview"
 ---
 
-## {{< fa person-digging >}} Under Construction
+<img src="content/images/logo_lwg-long.png" alt="Logo for LegacyWorks Group" width="30%" align="right"/>
 
-Check back later!
+{{< fa person-digging >}} Under construction; check back later
+
+<br>
+
+
+:::{.callout-tip icon="false" collapse="false"}
+## {{< fa brain >}} Learning Objectives
+
+After completing this series, participants will be able to:
+:::
+
+### Citing These Materials
+
+{{< fa person-digging >}} Under construction; check back later
+
+## Course Structure
+
+:::{.panel-tabset}
+### 2026-27 Structure
+
+{{< fa person-digging >}} Under construction; check back later
+
+:::
+
+## Course Scheduling
+
+:::{.panel-tabset}
+### 2026-27 Schedule
+
+| **Date** | **Series** | **Instructor(s)** |
+|:-----:|:-----------------|:---------|
+| Aug. 6, 2026 | 1. Project Selection & Design | <span style="color:#4AB2CB">{{< fa people-group >}} Jess </span> <br> <span style="color:#4AB2CB">{{< fa people-group >}} Michelle </span> <br> <span style="color:#4AB2CB">{{< fa people-group >}} Elle </span> <br> <span style="color:#4AB2CB">{{< fa people-group >}} Allison </span> |
+| Sep. 3, 2026 | 2. Project Management & Execution | <span style="color:#4AB2CB">{{< fa people-group >}} Jess </span> <br> <span style="color:#4AB2CB">{{< fa people-group >}} Michelle </span> <br> <span style="color:#4AB2CB">{{< fa people-group >}} Elle </span> <br> <span style="color:#4AB2CB">{{< fa people-group >}} Allison </span> |
+
+:::
+
+## Course Policies
+
+{{< fa person-digging >}} Under construction; check back later

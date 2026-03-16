@@ -2,6 +2,12 @@
 title: "Project Selection and Design"
 ---
 
-## {{< fa person-digging >}} Under Construction
+{{< fa person-digging >}} Under construction; check back later.
 
-Check back later!
+
+:::{.callout-tip icon="false" collapse="false"}
+## Core Competencies Strengthened
+
+_Icon legend: [Values = {{< fa heart >}}]{.cc-value} | [Skills = {{< fa wand-magic-sparkles >}}]{.cc-skill} | [Stewardship = {{< fa hand-holding-heart >}}]{.cc-steward} | [Results = {{< fa square-poll-vertical >}}]{.cc-result}_
+
+:::

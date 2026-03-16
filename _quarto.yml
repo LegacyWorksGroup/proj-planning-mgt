@@ -24,9 +24,9 @@ website:
     collapse-level: 2
     style: docked
     contents:
-      - text: "Course Home"
+      - text: "Series Overview"
         href: index.qmd
-      - section: "Course Contents"
+      - section: "Series Contents"
         contents: 
           - text: "Project Design"
             href: content/project-design.qmd
