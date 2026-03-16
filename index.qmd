@@ -13,6 +13,12 @@ title: "Series Overview"
 ## {{< fa brain >}} Learning Objectives
 
 After completing this series, participants will be able to:
+
+- **Assess** and screen potential projects for feasibility, impact, and alignment with LegacyWorks’ theory of change
+- **Co-develop** a spectrum of success to guide project design
+- **Design** an effective project scope, teaming structure, and budget
+- **Employ** LWG systems, tools, and templates for detailed project planning, management and execution
+
 :::
 
 ### Citing These Materials
