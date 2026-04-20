@@ -41,8 +41,8 @@ After completing this series, participants will be able to:
 
 | **Date** | **Series** | **Instructor(s)** |
 |:-----:|:-----------------|:---------|
-| Aug. 6, 2026 | 1. Project Selection & Design | <span style="color:#4AB2CB">{{< fa people-group >}} Jess </span> <br> <span style="color:#4AB2CB">{{< fa people-group >}} Michelle </span> <br> <span style="color:#4AB2CB">{{< fa people-group >}} Elle </span> <br> <span style="color:#4AB2CB">{{< fa people-group >}} Allison </span> |
-| Sep. 3, 2026 | 2. Project Management & Execution | <span style="color:#4AB2CB">{{< fa people-group >}} Jess </span> <br> <span style="color:#4AB2CB">{{< fa people-group >}} Michelle </span> <br> <span style="color:#4AB2CB">{{< fa people-group >}} Elle </span> <br> <span style="color:#4AB2CB">{{< fa people-group >}} Allison </span> |
+| Aug. 6, 2026 | 1. Project Selection & Design | <span style="color:#4AB2CB">{{< fa people-group >}} Jess Elliott </span> <br> <span style="color:#4AB2CB">{{< fa people-group >}} Michelle </span> <br> <span style="color:#4AB2CB">{{< fa people-group >}} Elle Shafer </span> <br> <span style="color:#4AB2CB">{{< fa people-group >}} Allison Parker </span> |
+| Sep. 3, 2026 | 2. Project Management & Execution | <span style="color:#4AB2CB">{{< fa people-group >}} Jess Elliott </span> <br> <span style="color:#4AB2CB">{{< fa people-group >}} Michelle </span> <br> <span style="color:#4AB2CB">{{< fa people-group >}} Elle Shafer </span> <br> <span style="color:#4AB2CB">{{< fa people-group >}} Allison Parker </span> |
 
 :::
 
