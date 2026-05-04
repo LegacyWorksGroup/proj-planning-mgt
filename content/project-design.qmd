@@ -9,7 +9,6 @@ This session will prepare participants to evaluate potential LWG projects and as
 
 _Icon legend: [Values = {{< fa heart >}}]{.cc-value} | [Skills = {{< fa wand-magic-sparkles >}}]{.cc-skill} | [Stewardship = {{< fa hand-holding-heart >}}]{.cc-steward} | [Results = {{< fa square-poll-vertical >}}]{.cc-result}_
 
-- [{{< fa heart >}} Practice entrepreneurialism]{.cc-value}
 - [{{< fa wand-magic-sparkles >}} Bring vision to life]{.cc-skill}
 - [{{< fa hand-holding-heart >}} Build capacity in others]{.cc-steward}
 - [{{< fa square-poll-vertical >}} Achieve progress towards goals, mission and vision]{.cc-result}
