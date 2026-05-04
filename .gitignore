@@ -49,6 +49,9 @@ vignettes/*.pdf
 ~$*.xlsx
 ~$*.docx
 
-# Folders to ignore
+# Quarto internal stuff
+**/*.quarto_ipynb
 /.quarto/
+
+# Folders to ignore
 docs/
