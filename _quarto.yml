@@ -32,6 +32,8 @@ website:
             href: content/project-design.qmd
           - text: "Management & Execution"
             href: content/project-execution.qmd
+      - text: "Series Recordings"
+        href: recordings.qmd
   page-footer: 
     center: "&copy; 2026, LegacyWorks Group"
     background: secondary
