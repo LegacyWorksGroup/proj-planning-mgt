@@ -10,13 +10,15 @@ execute:
 
 website:
   favicon: content/images/logo_lwg-circle.png
-  title: "LegacyWorks Group: Project Planning & Management Series"
+  title: "Project Planning & Management Series"
   repo-url: https://github.com/LegacyWorksGroup/proj-planning-mgt
   repo-actions: [issue]
   navbar:
     background: primary
     right: 
-      - text: "LegacyWorks Home"
+      - text: "Series Catalog"
+        href: https://legacyworksgroup.github.io/learning-catalog/
+      - text: "{{< fa house >}}"
         href: https://legacyworksgroup.com/
       - icon: github
         href: https://github.com/LegacyWorksGroup/proj-planning-mgt
@@ -34,6 +36,8 @@ website:
             href: content/project-execution.qmd
       - text: "Series Recordings"
         href: recordings.qmd
+      - text: "Resources"
+        href: resources.qmd
   page-footer: 
     center: "&copy; 2026, LegacyWorks Group"
     background: secondary
