@@ -2,10 +2,12 @@
 title: "Project Selection & Design"
 ---
 
+<meta name="robots" content="noindex, nofollow">
+
 This session will prepare participants to evaluate potential LWG projects and assess their fit using the project rubric and theory of change. We will walk through the (often collaborative) process of designing a successful LWG project or client engagement, illustrated with examples from across the organization. We will brief participants on relevant LWG policy, procedures, and supportive resources for the project design and launch phases. And we will provide training and practice using LWG’s central project scoping tools including: a project scoping checklist, spectrum of success, budget templates, and more.
 
-:::{.callout-tip icon="false" collapse="false"}
-## Core Competencies Strengthened
+:::{.callout-note icon="false" collapse="false"}
+## {{< fa people-group >}} Core Competencies Strengthened
 
 _Icon legend: [Values = {{< fa heart >}}]{.cc-value} | [Skills = {{< fa wand-magic-sparkles >}}]{.cc-skill} | [Stewardship = {{< fa hand-holding-heart >}}]{.cc-steward} | [Results = {{< fa square-poll-vertical >}}]{.cc-result}_
 

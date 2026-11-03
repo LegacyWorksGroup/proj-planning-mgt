@@ -2,10 +2,12 @@
 title: "Project Management & Execution"
 ---
 
+<meta name="robots" content="noindex, nofollow">
+
 This session will be all about delivering high quality results efficiently and effectively through excellent project management and team work. Participants will be introduced to the set of best practices, tools, and software LWG recommends for project management and team coordination. This may include shared notes, document sharing and version control via Drive, Gantt charts, AirTable, Asana, and more. Depending on the interest of the group and time, we may also discuss:  special considerations for projects that require collaboration with outside agencies and organizations; what to do when project scope or requirements shift; and tips for project reporting, evaluation, and learning.
 
-:::{.callout-tip icon="false" collapse="false"}
-## Core Competencies Strengthened
+:::{.callout-note icon="false" collapse="false"}
+## {{< fa people-group >}} Core Competencies Strengthened
 
 _Icon legend: [Values = {{< fa heart >}}]{.cc-value} | [Skills = {{< fa wand-magic-sparkles >}}]{.cc-skill} | [Stewardship = {{< fa hand-holding-heart >}}]{.cc-steward} | [Results = {{< fa square-poll-vertical >}}]{.cc-result}_
 
